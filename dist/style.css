@@ -1,0 +1,28 @@
+body{
+  background-color:LightSalmon;
+}
+h1{
+  text-align:center;
+  color:Gainsboro;
+}
+.Upper{
+  display:flex;
+  justify-content:center;
+}
+.buttons{
+  display:flex;
+  justify-content:center;
+}
+td{
+  padding:10px;
+}
+a{
+  text-decoration:none;
+  color:Gainsboro;
+    font-size:20px;
+} 
+a:hover{
+  text-decoration:none;
+  color:white;
+  font-size:25px;
+}
